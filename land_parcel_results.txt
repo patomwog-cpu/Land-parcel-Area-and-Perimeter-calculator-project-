@@ -1,0 +1,5 @@
+LAND PARCEL CALCULATOR RESULTS
+coordinates: [(100.0, 100.0), (200.0, 100.0), (200.0, 200.0), (100.0, 200.0)]
+Area in hectares: 1.0 ha
+Area in acres: 2.471054072593638 acres
+perimeter: 400.0 m
